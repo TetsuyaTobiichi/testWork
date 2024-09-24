@@ -21,7 +21,7 @@ public class scri : MonoBehaviour
         body = GetComponent<Rigidbody2D>();
         body.drag = drag;
        
-        ////////
+        /////////
     }
 
     void Update()
